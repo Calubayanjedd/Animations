@@ -24,6 +24,7 @@
     <Compile Include="Aesthetic.py" />
     <Compile Include="Animations.py" />
     <Compile Include="Building.py" />
+    <Compile Include="Rockets.py" />
     <Compile Include="Temple.py" />
   </ItemGroup>
   <ItemGroup>
